@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .youtube-thumbnail {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .youtube-thumbnail img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .youtube-thumbnail p {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
